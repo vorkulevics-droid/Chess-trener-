@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Защита Тейхмана: 6.h3 Bxf3 7.Qxf3 — основная схема",
+    "category": "Защита Тейхмана",
+    "eco": "D00",
+    "difficulty": 2,
+    "isTrap": false,
+    "trapNote": "",
+    "description": "Самая популярная защита за чёрных. Белые забирают слона и расставляются: Be3, Bd3, O-O, Rae1 — ладьи на открытых линиях e и f, давление на королевский фланг.",
+    "moves": "d4 d5 e4 dxe4 Nc3 Nf6 f3 exf3 Nxf3 Bg4 h3 Bxf3 Qxf3 c6 Be3 e6 Bd3 Nbd7 O-O Be7 Rae1"
+  },
+  {
+    "name": "Защита Тейхмана: 6...Bh5 7.g4 — пешечный штурм",
+    "category": "Защита Тейхмана",
+    "eco": "D00",
+    "difficulty": 3,
+    "isTrap": false,
+    "trapNote": "",
+    "description": "Если чёрные отступают слоном на h5, белые гонят его пешками g4-g5 и переводят коня на e5. Типичный план: Ne5, Qf3, g5, размен слона на g6 и слон на d3.",
+    "moves": "d4 d5 e4 dxe4 Nc3 Nf6 f3 exf3 Nxf3 Bg4 h3 Bh5 g4 Bg6 Ne5 e6 Qf3 c6 g5 Nd5 Nxg6 hxg6 Bd3"
+  },
+  {
+    "name": "Ловушка Тейхмана: 7...Qxd4?? 8.Qxb7!",
+    "category": "Защита Тейхмана",
+    "eco": "D00",
+    "difficulty": 1,
+    "isTrap": true,
+    "trapNote": "Жадное 7...Qxd4?? проигрывает: после 8.Qxb7 под боем ладья a8 и конь b8. На 8...Qe5+ 9.Be2 Nbd7 следует 10.Qxa8+ с выигрышем ладьи.",
+    "description": "Классическая ловушка в главной линии защиты Тейхмана. Чёрные выигрывают вторую пешку ферзём, но ферзевый фланг остаётся без защиты.",
+    "moves": "d4 d5 e4 dxe4 Nc3 Nf6 f3 exf3 Nxf3 Bg4 h3 Bxf3 Qxf3 Qxd4 Qxb7 Qe5+ Be2 Nbd7 Qxa8+"
+  },
+  {
+    "name": "Защита Эйве: 6.Bg5 Be7 7.Bd3 — батарея Qe1-h4",
+    "category": "Защита Эйве",
+    "eco": "D00",
+    "difficulty": 2,
+    "isTrap": false,
+    "trapNote": "",
+    "description": "После 5...e6 белые развиваются Bg5, Bd3, O-O и переводят ферзя по маршруту Qe1-h4, создавая угрозы королю чёрных. Запомните порядок ходов — это фундамент атаки.",
+    "moves": "d4 d5 e4 dxe4 Nc3 Nf6 f3 exf3 Nxf3 e6 Bg5 Be7 Bd3 Nbd7 O-O O-O Qe1 c5 Qh4"
+  },
+  {
+    "name": "Защита Эйве: жертва 11.Bxh6! — вскрытие короля",
+    "category": "Защита Эйве",
+    "eco": "D00",
+    "difficulty": 3,
+    "isTrap": true,
+    "trapNote": "На естественное 10...h6 следует тематическая жертва 11.Bxh6! gxh6 12.Qxh6 — король чёрных раскрыт, грозит Ng5 и подключение ладьи через f3-g3/h3.",
+    "description": "Тематическая жертва слона в защите Эйве. Чёрные пытаются отогнать слона пешкой h6, но белые вскрывают королевский фланг.",
+    "moves": "d4 d5 e4 dxe4 Nc3 Nf6 f3 exf3 Nxf3 e6 Bg5 Be7 Bd3 Nbd7 O-O O-O Qe1 c5 Qh4 h6 Bxh6 gxh6 Qxh6"
+  },
+  {
+    "name": "Защита Боголюбова: 6.Bc4 Bg7 7.O-O O-O 8.Qe1",
+    "category": "Защита Боголюбова",
+    "eco": "D00",
+    "difficulty": 2,
+    "isTrap": false,
+    "trapNote": "",
+    "description": "Фианкетто 5...g6 — одна из самых надёжных защит. Белые ставят слона на c4, рокируются и снова используют манёвр Qe1-h4. Be3 защищает d4.",
+    "moves": "d4 d5 e4 dxe4 Nc3 Nf6 f3 exf3 Nxf3 g6 Bc4 Bg7 O-O O-O Qe1 Nc6 Qh4 Bg4 Be3"
+  },
+  {
+    "name": "Защита Гундерама (Тартаковера): 6.Ne5 e6 7.g4",
+    "category": "Защита Гундерама",
+    "eco": "D00",
+    "difficulty": 3,
+    "isTrap": false,
+    "trapNote": "",
+    "description": "После 5...Bf5 белые немедленно играют Ne5 и g4, тесня слона. Белые рокируются, уходя от связки, затем h5 загоняет слона на e4, и после разменов ферзь выходит на f3 с двойной угрозой — коню e4 и пункту f7.",
+    "moves": "d4 d5 e4 dxe4 Nc3 Nf6 f3 exf3 Nxf3 Bf5 Ne5 e6 g4 Bg6 Bg2 c6 h4 Bb4 O-O Bxc3 bxc3 Nbd7 h5 Be4 Bxe4 Nxe4 Qf3"
+  },
+  {
+    "name": "Защита Циглера: 6.Bc4 Bf5 7.O-O e6 8.Ne5",
+    "category": "Защита Циглера",
+    "eco": "D00",
+    "difficulty": 2,
+    "isTrap": false,
+    "trapNote": "",
+    "description": "5...c6 укрепляет d5 и готовит Bf5. Белые ставят слона на c4, рокируются и начинают штурм g4-g5, прогоняя коня f6 и забирая слона g6.",
+    "moves": "d4 d5 e4 dxe4 Nc3 Nf6 f3 exf3 Nxf3 c6 Bc4 Bf5 O-O e6 Ne5 Nbd7 g4 Bg6 Nxg6 hxg6 g5 Nd5 Qf3"
+  },
+  {
+    "name": "Гамбит Райдера: ловушка Халосара — мат 9.Nxc7#",
+    "category": "Гамбит Райдера",
+    "eco": "D00",
+    "difficulty": 1,
+    "isTrap": true,
+    "trapNote": "После 7...Bg4?? белые не спасают ферзя, а играют 8.Nb5!! На 8...Bxf3 следует 9.Nxc7# — ладья d1 отнимает у короля поля d7 и d8.",
+    "description": "Знаменитая ловушка из партии Димер — Халосар (1934). Белые жертвуют вторую пешку (5.Qxf3), а затем и ферзя ради мата на c7.",
+    "moves": "d4 d5 e4 dxe4 Nc3 Nf6 f3 exf3 Qxf3 Qxd4 Be3 Qb4 O-O-O Bg4 Nb5 Bxf3 Nxc7#"
+  },
+  {
+    "name": "Гамбит Райдера: ловушка Халосара — 8...Na6 9.Qxb7",
+    "category": "Гамбит Райдера",
+    "eco": "D00",
+    "difficulty": 2,
+    "isTrap": true,
+    "trapNote": "Если чёрные защищают c7 конём (8...Na6), белые бьют на b7. На 9...Rb8 — 10.Qxb8+! Nxb8 11.Nxc7#. Проверьте, что помните и этот финал.",
+    "description": "Второй вариант ловушки Халосара. Чёрные не берут ферзя сразу, но всё равно попадают под матовую атаку.",
+    "moves": "d4 d5 e4 dxe4 Nc3 Nf6 f3 exf3 Qxf3 Qxd4 Be3 Qb4 O-O-O Bg4 Nb5 Na6 Qxb7 Rb8 Qxb8+ Nxb8 Nxc7#"
+  },
+  {
+    "name": "Контргамбит Лембергера: 3...e5 4.Nge2",
+    "category": "Контргамбит Лембергера",
+    "eco": "D00",
+    "difficulty": 1,
+    "isTrap": false,
+    "trapNote": "",
+    "description": "Чёрные отвечают контрударом в центре. Спокойное 4.Nge2 ведёт к размену ферзей и удобному развитию: Nxd4, Bg5 с давлением на f6.",
+    "moves": "d4 d5 e4 dxe4 Nc3 e5 Nge2 exd4 Qxd4 Qxd4 Nxd4 Nf6 Bg5"
+  },
+  {
+    "name": "Венская защита: 4...Bf5 5.fxe4 Nxe4 6.Qf3",
+    "category": "Венская защита",
+    "eco": "D00",
+    "difficulty": 3,
+    "isTrap": false,
+    "trapNote": "",
+    "description": "Чёрные отказываются брать на f3 и развивают слона. Белые забирают пешку обратно, выгоняют коня ферзём, ставят Bf4 и рокируются в длинную сторону.",
+    "moves": "d4 d5 e4 dxe4 Nc3 Nf6 f3 Bf5 fxe4 Nxe4 Qf3 Nd6 Bf4 e6 O-O-O c6 g4 Bg6 Bxd6 Bxd6 h4"
+  },
+  {
+    "name": "Гамбит Хюбша: 3...Nxe4 4.Nxe4 dxe4 5.Bc4",
+    "category": "Гамбит Хюбша",
+    "eco": "D00",
+    "difficulty": 2,
+    "isTrap": false,
+    "trapNote": "",
+    "description": "Если чёрные меняют коней на e4, белые получают родственную гамбитную позицию: Bc4, g4 с оттеснением слона, Ne2-f4 и ферзь на e2 с давлением на e4.",
+    "moves": "d4 Nf6 Nc3 d5 e4 Nxe4 Nxe4 dxe4 Bc4 Bf5 g4 Bg6 Ne2 e6 Nf4 Bd6 Nxg6 hxg6 Qe2"
+  },
+  {
+    "name": "Защита Лангехайнеке: 4...e3 5.Bxe3",
+    "category": "Отказанный гамбит",
+    "eco": "D00",
+    "difficulty": 1,
+    "isTrap": false,
+    "trapNote": "",
+    "description": "Чёрные возвращают пешку, чтобы затормозить развитие белых. Белые получают свободную игру: Bd3, Qd2 и длинная рокировка с последующим пешечным штурмом.",
+    "moves": "d4 d5 e4 dxe4 Nc3 Nf6 f3 e3 Bxe3 e6 Bd3 Be7 Qd2 O-O O-O-O"
+  },
+  {
+    "name": "Защита Каулиха: 5...c5 6.d5",
+    "category": "Защита Каулиха",
+    "eco": "D00",
+    "difficulty": 2,
+    "isTrap": false,
+    "trapNote": "",
+    "description": "Подрыв центра 5...c5 встречается ходом 6.d5. После 6...e6 7.Bc4 белые удерживают форпост на d5 и получают сильного слона.",
+    "moves": "d4 d5 e4 dxe4 Nc3 Nf6 f3 exf3 Nxf3 c5 d5 e6 Bc4 exd5 Nxd5 Nxd5 Bxd5"
+  }
+]
